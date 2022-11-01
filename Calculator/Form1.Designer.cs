@@ -105,7 +105,7 @@ namespace Calculator
             // 
             this.btCong.Location = new System.Drawing.Point(535, 389);
             this.btCong.Name = "btCong";
-            this.btCong.Size = new System.Drawing.Size(80, 49);
+            this.btCong.Size = new System.Drawing.Size(91, 49);
             this.btCong.TabIndex = 2;
             this.btCong.Text = "+";
             this.btCong.UseVisualStyleBackColor = true;
@@ -115,7 +115,7 @@ namespace Calculator
             // 
             this.btTru.Location = new System.Drawing.Point(240, 389);
             this.btTru.Name = "btTru";
-            this.btTru.Size = new System.Drawing.Size(80, 49);
+            this.btTru.Size = new System.Drawing.Size(93, 49);
             this.btTru.TabIndex = 2;
             this.btTru.Text = "-";
             this.btTru.UseVisualStyleBackColor = true;
