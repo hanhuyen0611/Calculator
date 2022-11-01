@@ -103,7 +103,7 @@ namespace Calculator
             // 
             // btCong
             // 
-            this.btCong.Location = new System.Drawing.Point(535, 389);
+            this.btCong.Location = new System.Drawing.Point(549, 389);
             this.btCong.Name = "btCong";
             this.btCong.Size = new System.Drawing.Size(80, 49);
             this.btCong.TabIndex = 2;
